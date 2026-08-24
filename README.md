@@ -7,7 +7,7 @@
 <h2 align="center">Software Developer | Java | Spring Boot | Python | Microservices | AI/ML</h2>
 
 <p align="center">
-  <a href="https://pankajkumar952.github.io/">
+  <a href="https://pankajkumar952.github.io/Portfolio/">
     <strong>🌐 View Live Portfolio</strong>
   </a>
 </p>
